@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 class  Application
 
@@ -20,3 +21,11 @@ class  Application
 
 
 end
+=======
+class Application 
+	
+
+
+
+end
+>>>>>>> dfddc651ac68dcbd57d24841211d53c7979c9391
